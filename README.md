@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ## I'm a Fullstack Developer
 - 🔭 I’m currently working on e-commerce project!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning HTML, CSS and JS
 - 👯 I’m looking to collaborate with other content creators
 - ✨ 2021 Goals: Making more projects
 - ⚡ Fun fact: I love to play video games
