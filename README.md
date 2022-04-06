@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## I'm a FrontEnd Developer
-- 🔭 I’m currently developping on e-commerce website!
+- 🔭 I’m currently developping my personal portfolio!
 - 👯 I’m looking to collaborate with other content creators
 - ✨ 2021 Goals: Making more projects
 - ⚡ Fun fact: I love to play video games
