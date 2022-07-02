@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play video games
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ghizlane-elatmani&show_icons=true&theme=react"/>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghizlane-elatmani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
