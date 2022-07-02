@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-## I'm a FrontEnd Developer
+## I'm a Front-End Developer
 - 🔭 I’m currently developping my personal portfolio!
 - 👯 I’m looking to collaborate with other content creators
-- ✨ 2021 Goals: Making more projects
+- ✨ 2022 Goals: Create more content and improve my development skills
 - ⚡ Fun fact: I love to play video games
 
 <br />
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghizlane-elatmani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
-<br />
+
 
 
 ## Connect with me:
