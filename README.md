@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## I'm a Front-End Developer
+## I'm a Fullstack Developer (JAVA - SPRING / REACTJS)
 - 🔭 I’m currently developping my personal portfolio!
 - 👯 I’m looking to collaborate with other content creators
 - ✨ 2022 Goals: Create more content and improve my development skills
