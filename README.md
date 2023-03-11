@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-## I'm a Fullstack Developer (JAVA - SPRING / ANGULAR)
-- 🔭 I’m currently developing my personal portfolio!
+## I'm a Web Developer (REACTJS)
+- 🔭 I’m currently developing my personal dashboard project!
 - 👯 I’m looking to collaborate with other content creators
 - ✨ 2023 Goals: Create more content and improve my development skills
 - ⚡ Fun fact: I love to play video games
