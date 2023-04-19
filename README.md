@@ -5,19 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-## I'm a Web Developer (REACTJS)
+## I'm a React Developer
 - 🔭 I’m currently developing my personal dashboard project!
 - 👯 I’m looking to collaborate with other content creators
 - ✨ 2023 Goals: Create more content and improve my development skills
 - ⚡ Fun fact: I love to play video games
 
 <br />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghizlane-elatmani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
-
-
-
 
 
 ## Connect with me:
